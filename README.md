@@ -2,6 +2,9 @@
 
 ## Assigned Play: A Midsummer Night's Dream
 
+* Speaker 1: TITANIA
+* Speaker 2: THESEUS
+
 - Here, I have found occurance of words TITANIA and THESEUS using 'awk' command.
 - 'awk' is a programming language which we can combine with shell script and can be used for processing text-based data.
 
