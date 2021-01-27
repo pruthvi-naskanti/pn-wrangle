@@ -1,9 +1,13 @@
 # pn-wrangle
 
-![Screenshot of commands](https://github.com/pruthvi-naskanti/pn-wrangle/blob/main/bdassign.JPG?raw=true)
+## Assigned Play: A Midsummer Night's Dream
 
 - Here, I have found occurance of words TITANIA and THESEUS using 'awk' command.
 - 'awk' is a programming language which we can combine with shell script and can be used for processing text-based data.
+
+![Screenshot of commands](https://github.com/pruthvi-naskanti/pn-wrangle/blob/main/bdassign.JPG?raw=true)
+
+
 
 ## Commands used:
 - command to get wordcount of word TITANIA and print it to Output.txt file
